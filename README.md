@@ -12,5 +12,5 @@ I'm a passionate individual deeply involved in education and learning initiative
 - 🎯 Educating kids at **StayQrious Neoschool** which is a cambridge accredited online school to help kids become happy, independent learners for life.
   
 ### Hobbies:
-- 🎨 Exploring technology, gadgets and a bit of cooking
+- 💻 Exploring **technology**, **gadgets**, and a bit of **cooking**.
 
