@@ -1,6 +1,6 @@
 # Hi, I'm Shankar! 👋
 
-![Shankar's Avatar](./Shankar_avatar.png)
+![Shankar's Avatar](./avatar.png)
 
 ### About Me:
 I'm a passionate individual deeply involved in education and learning initiatives, where I focus on replacing schools with an alternate which provides **real-world skills development** through projects and case studies.
