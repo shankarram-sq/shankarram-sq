@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shankar! 👋
 
-<!--
-**shankarram-sq/shankarram-sq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Shankar's Avatar](./Shankar_avatar.png)
 
-Here are some ideas to get you started:
+### About Me:
+I'm a passionate individual deeply involved in education and learning initiatives, where I focus on replacing schools with an alternate which provides **real-world skills development** through projects and case studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do:
+- 🔧 Building innovative **education solutions** that focusses on **real world skills and knowledge**
+
+### Current Projects:
+- 🎯 Educating kids at **StayQrious Neoschool** which is a cambridge accredited online school to help kids become happy, independent learners for life.
+  
+### Hobbies:
+- 🎨 Exploring technology, gadgets and a bit of cooking
+
